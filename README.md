@@ -36,9 +36,6 @@ A full-stack application featuring user authentication, a real-time social feed 
 ### Food Tracking Application
 A food tracking application built with a JavaScript frontend, PostgreSQL database, and external food API integration.
 
-### ValenciaGo
-A mobile city guide developed during an international study programme at Universitat Politècnica de València (UPV).
-
 ---
 
 <div align="center">
