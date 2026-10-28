@@ -1,16 +1,48 @@
-## Hi there 👋
 
-<!--
-**Maarten0162/Maarten0162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hey, I'm Maarten 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Full-Stack Software Engineer
+
+ICT Student at Fontys University of Applied Sciences
+
+I enjoy building applications, exploring different technologies,
+and figuring out how things work.
+
+</div>
+
+---
+
+### About Me
+
+- 💻 Working across frontend and backend development
+- 🖥️ Interested in servers, hardware, and infrastructure
+- 🔧 Enjoy building, experimenting, and repairing things
+- 🎓 Studying Software Engineering at Fontys
+
+### Technologies
+
+**Languages:** Java, C#, TypeScript, JavaScript, SQL
+
+**Frameworks:** .NET, React, Angular, React Native
+
+**Tools:** Git, PostgreSQL, SQL Server, VMware
+
+### Featured Projects
+
+**Progress Photo Tracker**  
+A full-stack application with authentication, real-time updates,
+and cloud image storage.
+
+**Food Tracking Application**  
+A food tracking app with external API integration and PostgreSQL.
+
+**ValenciaGo**  
+A mobile city guide built during an international study programme.
+
+---
+
+### Connect
+
+[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL)
