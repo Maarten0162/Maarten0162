@@ -1,48 +1,50 @@
-
 <div align="center">
 
-# Hey, I'm Maarten 👋
+<img src="./assets/header.svg" alt="Hey, I'm Maarten — Full-Stack Software Engineer" width="100%" />
 
-### Full-Stack Software Engineer
-
-ICT Student at Fontys University of Applied Sciences
-
-I enjoy building applications, exploring different technologies,
+I enjoy building applications, exploring different technologies,  
 and figuring out how things work.
+
+**Portfolio (under construction 🏗️)** · [LinkedIn](https://www.linkedin.com/in/maarten-van-den-berg-ict/)
 
 </div>
 
 ---
 
-### About Me
+## About Me
 
-- 💻 Working across frontend and backend development
-- 🖥️ Interested in servers, hardware, and infrastructure
-- 🔧 Enjoy building, experimenting, and repairing things
-- 🎓 Studying Software Engineering at Fontys
+I'm a full-stack software engineer who enjoys working across both frontend and backend development. I like solving problems, building practical solutions, and experimenting with different technologies.
 
-### Technologies
+Outside of software development, I'm interested in hardware, setting up servers, building computers, and repairing game consoles.
 
-**Languages:** Java, C#, TypeScript, JavaScript, SQL
+## Tech Stack
 
-**Frameworks:** .NET, React, Angular, React Native
+**Languages**  
+Java · C# · JavaScript · TypeScript · SQL
 
-**Tools:** Git, PostgreSQL, SQL Server, VMware
+**Frameworks & Libraries**  
+.NET · React · Angular · React Native
 
-### Featured Projects
+**Databases & Tools**  
+PostgreSQL · SQL Server · Git · VMware · VirtualBox
 
-**Progress Photo Tracker**  
-A full-stack application with authentication, real-time updates,
-and cloud image storage.
+## Featured Projects
 
-**Food Tracking Application**  
-A food tracking app with external API integration and PostgreSQL.
+### Progress Photo Tracker
+A full-stack application featuring user authentication, a real-time social feed using WebSockets, and cloud image storage with Cloudinary and Supabase.
 
-**ValenciaGo**  
-A mobile city guide built during an international study programme.
+### Food Tracking Application
+A food tracking application built with a JavaScript frontend, PostgreSQL database, and external food API integration.
+
+### ValenciaGo
+A mobile city guide developed during an international study programme at Universitat Politècnica de València (UPV).
 
 ---
 
-### Connect
+<div align="center">
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL)
+### Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/maarten-van-den-berg-ict/) · Portfolio (under construction 🏗️)
+
+</div>
