@@ -14,7 +14,7 @@
   <circle cx="93" cy="20" r="5" fill="#3fb950"/>
   <text x="52" y="113" class="title">Hey, I'm Maarten.</text>
   <text x="52" y="166" class="role">Full-Stack Software Engineer</text>
-  <rect class="cursor" x="492" y="141" width="3" height="31" fill="#58a6ff"/>
+  <rect class="cursor" x="448" y="141" width="5" height="31" fill="#58a6ff"/>
   <text x="52" y="213" class="sub">ICT Student at Fontys University of Applied Sciences</text>
   <path d="M52 238 H948" stroke="#30363d" stroke-width="1"/>
 </svg>
